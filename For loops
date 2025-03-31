@@ -1,0 +1,4 @@
+// Print the  number from 1 to N using for loops
+
+class loops{
+public static void main(String []args){
